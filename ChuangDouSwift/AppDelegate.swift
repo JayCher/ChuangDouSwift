@@ -17,14 +17,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
      func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
           // Override point for customization after application launch.
           
+          let rect = UIScreen.mainScreen().bounds
+          self.window = UIWindow(frame: rect)
+          self.window?.backgroundColor = UIColor.whiteColor()
+          self.window?.makeKeyAndVisible()
+
           
-          
-          
-          
-          
-          
-          
-          
+          let login = LoginViewController()
+          let na = UINavigationController(rootViewController: login)
+          self.window?.rootViewController = na
           
           
           return true

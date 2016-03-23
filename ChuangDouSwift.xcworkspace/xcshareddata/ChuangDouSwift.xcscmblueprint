@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FEAEAD9E71254CBD077F950006DB08BA97D7C9A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FEAEAD9E71254CBD077F950006DB08BA97D7C9A1" : 0,
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "810F9CC8-1C7F-4729-9B7F-682BFFFA167A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FEAEAD9E71254CBD077F950006DB08BA97D7C9A1" : "ChuangDouSwift",
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "ChuangDouSwiftFrame\/SDWebImage"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChuangDouSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChuangDouSwift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rs\/SDWebImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JayCher\/ChuangDouSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEAEAD9E71254CBD077F950006DB08BA97D7C9A1"
+    }
+  ]
+}

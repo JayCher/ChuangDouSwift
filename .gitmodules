@@ -1,0 +1,9 @@
+[submodule "submodule/Snappy"]
+	path = submodule/Snappy
+	url = https://github.com/Masonry/Snappy.git
+[submodule "submodule/SDWebImage"]
+	path = submodule/SDWebImage
+	url = https://github.com/rs/SDWebImage.git
+[submodule "Frame/SDWebImage"]
+	path = Frame/SDWebImage
+	url = https://github.com/rs/SDWebImage.git
